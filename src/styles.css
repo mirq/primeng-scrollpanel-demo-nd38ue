@@ -1,0 +1,40 @@
+body {
+  padding: 2em;
+  font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica,
+    Arial, sans-serif, “Apple Color Emoji”, “Segoe UI Emoji”, “Segoe UI Symbol”;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  background: red;
+  padding: 10px;
+  display: flex;
+  position: relative;
+  height: 100%;
+  flex-direction: row;
+}
+.wrapper-green {
+  background: lightgreen;
+  padding: 10px;
+  display: grid;
+}
+.wrapper-blue {
+  background: lightblue;
+  padding: 10px;
+  display: grid;
+}
+
+.panel {
+  background: pink;
+}
+
+.panel2 {
+  background: rgb(246, 255, 192);
+}
+.panel3 {
+  background: rgb(192, 255, 229);
+}
