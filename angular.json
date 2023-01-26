@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "primeng-issue-template"
+  "defaultProject": "primeng-issue-template",
+  "cli": {
+    "analytics": "ec3000f0-a6c1-4b62-8359-588beca2242f"
+  }
 }
